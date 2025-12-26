@@ -6,4 +6,4 @@ set(CMAKE_C_STANDARD 11)
 add_executable(Tema_2
 
         add_executable(Tema_2 Nivel_Basico/SuperTrunfo.c)
-        Super_Trunfo_Intermediario.c)
+        Nivel_Intermediario/Super_Trunfo_Intermediario.c)
