@@ -4,4 +4,6 @@ project(Tema_2 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Tema_2
-        SuperTrunfo.c)
+
+        add_executable(Tema_2 Nivel_Basico/SuperTrunfo.c)
+        Super_Trunfo_Intermediario.c)
